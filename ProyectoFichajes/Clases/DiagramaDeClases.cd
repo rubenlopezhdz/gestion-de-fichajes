@@ -1,0 +1,141 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1" MembersFormat="FullSignature">
+  <Class Name="AP17.ConBD">
+    <Position X="0.5" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAEAQAAAAAAAgAAAAAAAAAAAAAACAAAAAAAAAAEAAA=</HashCode>
+      <FileName>Clases\ConBD.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProyectoFichajes.Class.Empleado">
+    <Position X="0.5" Y="3.5" Width="4.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAEAASAAgCEgAIAgAAAAAAAAAAAIIEQABABEAA=</HashCode>
+      <FileName>Clases\Empleado.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProyectoFichajes.Fichaje">
+    <Position X="6.75" Y="0.5" Width="7.5" />
+    <TypeIdentifier>
+      <HashCode>AAUAAAAJACAAAiAgIAAACAAEECgAAgIoABCCAAAEgCA=</HashCode>
+      <FileName>Clases\Fichaje.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProyectoFichajes.Program">
+    <Position X="4.75" Y="2.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAABAAAAAA=</HashCode>
+      <FileName>Clases\Program.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProyectoFichajes.Clases.Utiles">
+    <Position X="3.5" Y="0.5" Width="2.75" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAgAAAAAJAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Clases\Utiles.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProyectoFichajes.frmAccesoAdmin">
+    <Position X="9.5" Y="9" Width="3.75" />
+    <Members>
+      <Field Name="btnAcceso" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Field Name="errorProvider1" Hidden="true" />
+      <Field Name="lblClave" Hidden="true" />
+      <Field Name="lblNif" Hidden="true" />
+      <Field Name="mtxtNif" Hidden="true" />
+      <Field Name="pibAdmin" Hidden="true" />
+      <Field Name="txtClave" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AgAIAAAAAGAACRgABACACAACAgAAAQBAAgAAAGAAQAA=</HashCode>
+      <FileName>Formularios\frmAccesoAdmin.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProyectoFichajes.frmMantenimiento">
+    <Position X="14.75" Y="0.5" Width="4.5" />
+    <Members>
+      <Field Name="btnAgregar" Hidden="true" />
+      <Field Name="btnCerrar" Hidden="true" />
+      <Field Name="btnEliminar" Hidden="true" />
+      <Field Name="chkAdministrador" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Field Name="dgvEmpleados" Hidden="true" />
+      <Field Name="dgvFichajes" Hidden="true" />
+      <Field Name="errorProvider1" Hidden="true" />
+      <Field Name="grpGestionEmpleados" Hidden="true" />
+      <Field Name="lblApellidos" Hidden="true" />
+      <Field Name="lblClave" Hidden="true" />
+      <Field Name="lblInfoEmpleados" Hidden="true" />
+      <Field Name="lblInfoFichajes" Hidden="true" />
+      <Field Name="lblNif" Hidden="true" />
+      <Field Name="lblNombre" Hidden="true" />
+      <Field Name="menuStripSalir" Hidden="true" />
+      <Field Name="mnuSalir" Hidden="true" />
+      <Field Name="mtxtNif" Hidden="true" />
+      <Field Name="txtApellidos" Hidden="true" />
+      <Field Name="txtClave" Hidden="true" />
+      <Field Name="txtNombre" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AgCJsAYAAOCQCAACBACAgAICSCBASQAAABACCAAgAAI=</HashCode>
+      <FileName>Formularios\frmMantenimiento.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProyectoFichajes.frmPermanencia">
+    <Position X="5" Y="9" Width="3.75" />
+    <Members>
+      <Field Name="btnFiltrar" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Field Name="dgvPermanencia" Hidden="true" />
+      <Field Name="dtpFin" Hidden="true" />
+      <Field Name="dtpInicio" Hidden="true" />
+      <Field Name="lblFinal" Hidden="true" />
+      <Field Name="lblHoras" Hidden="true" />
+      <Field Name="lblInicio" Hidden="true" />
+      <Field Name="nifEmpleado" Hidden="true" />
+      <Field Name="txtHoras" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>CACAAQAAACCIAAAAAACAAgACAIIAQAAAABAAAAAAACA=</HashCode>
+      <FileName>Formularios\frmPermanencia.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProyectoFichajes.frmPresencia">
+    <Position X="14" Y="9" Width="3.5" />
+    <Members>
+      <Field Name="btnVolver" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Field Name="dgvPresencia" Hidden="true" />
+      <Field Name="lblPresencia" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAACEAIAQAAACAAAACAAAAAAAEAAACAAAAAEA=</HashCode>
+      <FileName>Formularios\frmPresencia.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="ProyectoFichajes.frmPrincipal">
+    <Position X="0.5" Y="9" Width="4" />
+    <Members>
+      <Field Name="btnEntrada" Hidden="true" />
+      <Field Name="btnMantenimiento" Hidden="true" />
+      <Field Name="btnPermanencia" Hidden="true" />
+      <Field Name="btnPresencia" Hidden="true" />
+      <Field Name="btnSalida" Hidden="true" />
+      <Field Name="components" Hidden="true" />
+      <Field Name="errorProvider1" Hidden="true" />
+      <Field Name="lblFecha" Hidden="true" />
+      <Field Name="lblReloj" Hidden="true" />
+      <Field Name="mtxtNif" Hidden="true" />
+      <Field Name="pbFecha" Hidden="true" />
+      <Field Name="pbImagen" Hidden="true" />
+      <Field Name="rtbMensaje" Hidden="true" />
+      <Field Name="timerReloj" Hidden="true" />
+    </Members>
+    <TypeIdentifier>
+      <HashCode>IgQAEERAACAAGAgABgCAEQACIEIAACAAIggAAAAAQgM=</HashCode>
+      <FileName>Formularios\frmPrincipal.cs</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Segoe UI" Size="9" />
+</ClassDiagram>

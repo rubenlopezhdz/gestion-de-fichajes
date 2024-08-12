@@ -1,0 +1,28 @@
+CREATE DATABASE IF NOT EXISTS bdfichajes CHARACTER SET utf8;
+SET DEFAULT_STORAGE_ENGINE=INNODB;
+
+USE bdfichajes;
+
+CREATE TABLE IF NOT EXISTS empleados
+( 
+nif VARCHAR (10) PRIMARY KEY,
+nombre VARCHAR (50) NOT NULL,
+apellidos VARCHAR (70) NOT NULL,
+administrador BOOL NOT NULL,
+clave VARCHAR (40) NOT NULL
+);
+
+CREATE TABLE IF NOT EXISTS fichajes
+(
+numFichaje INT (11) PRIMARY KEY AUTO_INCREMENT,
+nifEmpleado VARCHAR (10)NOT NULL,
+dia DATETIME NOT NULL,
+horaEntrada TIME NOT NULL,
+horaSalida TIME NOT NULL,
+fichajeEntrada BOOL NOT NULL,
+fichajeSalida BOOL NOT NULL,
+fichajeCompletado BOOL NOT NULL,
+duracionFichaje TIME NOT NULL
+);
+
+INSERT INTO empleados VALUES ('11111111H','Juan','Marqués',true,'1dam');

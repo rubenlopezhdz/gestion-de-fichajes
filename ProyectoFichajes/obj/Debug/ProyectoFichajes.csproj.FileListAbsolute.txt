@@ -1,0 +1,201 @@
+C:\Users\Boromir\Documents\Trabajos\DAM\Programacion\EV3\Proyecto\ProyectoFichajes\obj\Debug\ProyectoFichajes.csproj.AssemblyReference.cache
+C:\Users\Boromir\Documents\Trabajos\DAM\Programacion\EV3\Proyecto\ProyectoFichajes\obj\Debug\ProyectoFichajes.Form1.resources
+C:\Users\Boromir\Documents\Trabajos\DAM\Programacion\EV3\Proyecto\ProyectoFichajes\obj\Debug\ProyectoFichajes.Properties.Resources.resources
+C:\Users\Boromir\Documents\Trabajos\DAM\Programacion\EV3\Proyecto\ProyectoFichajes\obj\Debug\ProyectoFichajes.csproj.GenerateResource.cache
+C:\Users\Boromir\Documents\Trabajos\DAM\Programacion\EV3\Proyecto\ProyectoFichajes\obj\Debug\ProyectoFichajes.csproj.CoreCompileInputs.cache
+C:\Users\Boromir\Documents\Trabajos\DAM\Programacion\EV3\Proyecto\ProyectoFichajes\bin\Debug\ProyectoFichajes.exe.config
+C:\Users\Boromir\Documents\Trabajos\DAM\Programacion\EV3\Proyecto\ProyectoFichajes\bin\Debug\ProyectoFichajes.exe
+C:\Users\Boromir\Documents\Trabajos\DAM\Programacion\EV3\Proyecto\ProyectoFichajes\bin\Debug\ProyectoFichajes.pdb
+C:\Users\Boromir\Documents\Trabajos\DAM\Programacion\EV3\Proyecto\ProyectoFichajes\bin\Debug\MySql.Data.dll
+C:\Users\Boromir\Documents\Trabajos\DAM\Programacion\EV3\Proyecto\ProyectoFichajes\bin\Debug\System.Memory.dll
+C:\Users\Boromir\Documents\Trabajos\DAM\Programacion\EV3\Proyecto\ProyectoFichajes\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Boromir\Documents\Trabajos\DAM\Programacion\EV3\Proyecto\ProyectoFichajes\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Boromir\Documents\Trabajos\DAM\Programacion\EV3\Proyecto\ProyectoFichajes\bin\Debug\System.Buffers.dll
+C:\Users\Boromir\Documents\Trabajos\DAM\Programacion\EV3\Proyecto\ProyectoFichajes\bin\Debug\MySql.Data.xml
+C:\Users\Boromir\Documents\Trabajos\DAM\Programacion\EV3\Proyecto\ProyectoFichajes\obj\Debug\ProyectoFichajes.csproj.CopyComplete
+C:\Users\Boromir\Documents\Trabajos\DAM\Programacion\EV3\Proyecto\ProyectoFichajes\obj\Debug\ProyectoFichajes.exe
+C:\Users\Boromir\Documents\Trabajos\DAM\Programacion\EV3\Proyecto\ProyectoFichajes\obj\Debug\ProyectoFichajes.pdb
+C:\Users\Boromir\Documents\Trabajos\DAM\Programacion\EV3\Proyecto\ProyectoFichajes\obj\Debug\ProyectoFichajes.frmAccesoAdmin.resources
+C:\Users\Boromir\Documents\Trabajos\DAM\Programacion\EV3\Proyecto\ProyectoFichajes\obj\Debug\ProyectoFichajes.frmMantenimiento.resources
+C:\Users\rlinf\Downloads\ProyectoFichajes\bin\Debug\ProyectoFichajes.exe.config
+C:\Users\rlinf\Downloads\ProyectoFichajes\bin\Debug\ProyectoFichajes.exe
+C:\Users\rlinf\Downloads\ProyectoFichajes\bin\Debug\ProyectoFichajes.pdb
+C:\Users\rlinf\Downloads\ProyectoFichajes\bin\Debug\MySql.Data.dll
+C:\Users\rlinf\Downloads\ProyectoFichajes\bin\Debug\System.Memory.dll
+C:\Users\rlinf\Downloads\ProyectoFichajes\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\rlinf\Downloads\ProyectoFichajes\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\rlinf\Downloads\ProyectoFichajes\bin\Debug\System.Buffers.dll
+C:\Users\rlinf\Downloads\ProyectoFichajes\bin\Debug\MySql.Data.xml
+C:\Users\rlinf\Downloads\ProyectoFichajes\obj\Debug\ProyectoFichajes.csproj.AssemblyReference.cache
+C:\Users\rlinf\Downloads\ProyectoFichajes\obj\Debug\ProyectoFichajes.frmAccesoAdmin.resources
+C:\Users\rlinf\Downloads\ProyectoFichajes\obj\Debug\ProyectoFichajes.frmMantenimiento.resources
+C:\Users\rlinf\Downloads\ProyectoFichajes\obj\Debug\ProyectoFichajes.Properties.Resources.resources
+C:\Users\rlinf\Downloads\ProyectoFichajes\obj\Debug\ProyectoFichajes.csproj.GenerateResource.cache
+C:\Users\rlinf\Downloads\ProyectoFichajes\obj\Debug\ProyectoFichajes.csproj.CoreCompileInputs.cache
+C:\Users\rlinf\Downloads\ProyectoFichajes\obj\Debug\ProyectoFichajes.csproj.CopyComplete
+C:\Users\rlinf\Downloads\ProyectoFichajes\obj\Debug\ProyectoFichajes.exe
+C:\Users\rlinf\Downloads\ProyectoFichajes\obj\Debug\ProyectoFichajes.pdb
+C:\Users\rlinf\Downloads\ProyectoFichajes (1)\ProyectoFichajes\bin\Debug\ProyectoFichajes.exe.config
+C:\Users\rlinf\Downloads\ProyectoFichajes (1)\ProyectoFichajes\bin\Debug\ProyectoFichajes.exe
+C:\Users\rlinf\Downloads\ProyectoFichajes (1)\ProyectoFichajes\bin\Debug\ProyectoFichajes.pdb
+C:\Users\rlinf\Downloads\ProyectoFichajes (1)\ProyectoFichajes\bin\Debug\MySql.Data.dll
+C:\Users\rlinf\Downloads\ProyectoFichajes (1)\ProyectoFichajes\bin\Debug\System.Memory.dll
+C:\Users\rlinf\Downloads\ProyectoFichajes (1)\ProyectoFichajes\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\rlinf\Downloads\ProyectoFichajes (1)\ProyectoFichajes\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\rlinf\Downloads\ProyectoFichajes (1)\ProyectoFichajes\bin\Debug\System.Buffers.dll
+C:\Users\rlinf\Downloads\ProyectoFichajes (1)\ProyectoFichajes\bin\Debug\MySql.Data.xml
+C:\Users\rlinf\Downloads\ProyectoFichajes (1)\ProyectoFichajes\obj\Debug\ProyectoFichajes.csproj.AssemblyReference.cache
+C:\Users\rlinf\Downloads\ProyectoFichajes (1)\ProyectoFichajes\obj\Debug\ProyectoFichajes.Form1.resources
+C:\Users\rlinf\Downloads\ProyectoFichajes (1)\ProyectoFichajes\obj\Debug\ProyectoFichajes.frmAccesoAdmin.resources
+C:\Users\rlinf\Downloads\ProyectoFichajes (1)\ProyectoFichajes\obj\Debug\ProyectoFichajes.frmMantenimiento.resources
+C:\Users\rlinf\Downloads\ProyectoFichajes (1)\ProyectoFichajes\obj\Debug\ProyectoFichajes.Properties.Resources.resources
+C:\Users\rlinf\Downloads\ProyectoFichajes (1)\ProyectoFichajes\obj\Debug\ProyectoFichajes.csproj.GenerateResource.cache
+C:\Users\rlinf\Downloads\ProyectoFichajes (1)\ProyectoFichajes\obj\Debug\ProyectoFichajes.csproj.CoreCompileInputs.cache
+C:\Users\rlinf\Downloads\ProyectoFichajes (1)\ProyectoFichajes\obj\Debug\ProyectoFichajes.csproj.CopyComplete
+C:\Users\rlinf\Downloads\ProyectoFichajes (1)\ProyectoFichajes\obj\Debug\ProyectoFichajes.exe
+C:\Users\rlinf\Downloads\ProyectoFichajes (1)\ProyectoFichajes\obj\Debug\ProyectoFichajes.pdb
+C:\Users\Boromir\Documents\Trabajos\DAM\Programacion\EV3\Proyecto\ProyectoFichajes (1)\ProyectoFichajes\bin\Debug\ProyectoFichajes.exe.config
+C:\Users\Boromir\Documents\Trabajos\DAM\Programacion\EV3\Proyecto\ProyectoFichajes (1)\ProyectoFichajes\bin\Debug\ProyectoFichajes.exe
+C:\Users\Boromir\Documents\Trabajos\DAM\Programacion\EV3\Proyecto\ProyectoFichajes (1)\ProyectoFichajes\bin\Debug\ProyectoFichajes.pdb
+C:\Users\Boromir\Documents\Trabajos\DAM\Programacion\EV3\Proyecto\ProyectoFichajes (1)\ProyectoFichajes\bin\Debug\System.Memory.dll
+C:\Users\Boromir\Documents\Trabajos\DAM\Programacion\EV3\Proyecto\ProyectoFichajes (1)\ProyectoFichajes\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Boromir\Documents\Trabajos\DAM\Programacion\EV3\Proyecto\ProyectoFichajes (1)\ProyectoFichajes\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Boromir\Documents\Trabajos\DAM\Programacion\EV3\Proyecto\ProyectoFichajes (1)\ProyectoFichajes\bin\Debug\System.Buffers.dll
+C:\Users\Boromir\Documents\Trabajos\DAM\Programacion\EV3\Proyecto\ProyectoFichajes (1)\ProyectoFichajes\obj\Debug\ProyectoFichajes.csproj.AssemblyReference.cache
+C:\Users\Boromir\Documents\Trabajos\DAM\Programacion\EV3\Proyecto\ProyectoFichajes (1)\ProyectoFichajes\obj\Debug\ProyectoFichajes.frmAccesoAdmin.resources
+C:\Users\Boromir\Documents\Trabajos\DAM\Programacion\EV3\Proyecto\ProyectoFichajes (1)\ProyectoFichajes\obj\Debug\ProyectoFichajes.frmMantenimiento.resources
+C:\Users\Boromir\Documents\Trabajos\DAM\Programacion\EV3\Proyecto\ProyectoFichajes (1)\ProyectoFichajes\obj\Debug\ProyectoFichajes.Properties.Resources.resources
+C:\Users\Boromir\Documents\Trabajos\DAM\Programacion\EV3\Proyecto\ProyectoFichajes (1)\ProyectoFichajes\obj\Debug\ProyectoFichajes.csproj.GenerateResource.cache
+C:\Users\Boromir\Documents\Trabajos\DAM\Programacion\EV3\Proyecto\ProyectoFichajes (1)\ProyectoFichajes\obj\Debug\ProyectoFichajes.csproj.CoreCompileInputs.cache
+C:\Users\Boromir\Documents\Trabajos\DAM\Programacion\EV3\Proyecto\ProyectoFichajes (1)\ProyectoFichajes\obj\Debug\ProyectoFichajes.csproj.CopyComplete
+C:\Users\Boromir\Documents\Trabajos\DAM\Programacion\EV3\Proyecto\ProyectoFichajes (1)\ProyectoFichajes\obj\Debug\ProyectoFichajes.exe
+C:\Users\Boromir\Documents\Trabajos\DAM\Programacion\EV3\Proyecto\ProyectoFichajes (1)\ProyectoFichajes\obj\Debug\ProyectoFichajes.pdb
+C:\Users\Boromir\Documents\Trabajos\DAM\Programacion\EV3\Proyecto\ProyectoFichajes (1)\ProyectoFichajes\obj\Debug\ProyectoFichajes.frmPrincipal.resources
+C:\Users\Boromir\Documents\Trabajos\DAM\Programacion\EV3\Proyecto\ProyectoFichajes (1)\ProyectoFichajes\obj\Debug\ProyectoFichajes.frmPresencia.resources
+C:\Users\Boromir\Documents\Trabajos\DAM\Programacion\EV3\ProyectoFichajes\bin\Debug\ProyectoFichajes.exe.config
+C:\Users\Boromir\Documents\Trabajos\DAM\Programacion\EV3\ProyectoFichajes\bin\Debug\ProyectoFichajes.exe
+C:\Users\Boromir\Documents\Trabajos\DAM\Programacion\EV3\ProyectoFichajes\bin\Debug\ProyectoFichajes.pdb
+C:\Users\Boromir\Documents\Trabajos\DAM\Programacion\EV3\ProyectoFichajes\bin\Debug\MySql.Data.dll
+C:\Users\Boromir\Documents\Trabajos\DAM\Programacion\EV3\ProyectoFichajes\bin\Debug\System.Memory.dll
+C:\Users\Boromir\Documents\Trabajos\DAM\Programacion\EV3\ProyectoFichajes\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Boromir\Documents\Trabajos\DAM\Programacion\EV3\ProyectoFichajes\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Boromir\Documents\Trabajos\DAM\Programacion\EV3\ProyectoFichajes\bin\Debug\System.Buffers.dll
+C:\Users\Boromir\Documents\Trabajos\DAM\Programacion\EV3\ProyectoFichajes\bin\Debug\MySql.Data.xml
+C:\Users\Boromir\Documents\Trabajos\DAM\Programacion\EV3\ProyectoFichajes\obj\Debug\ProyectoFichajes.csproj.AssemblyReference.cache
+C:\Users\Boromir\Documents\Trabajos\DAM\Programacion\EV3\ProyectoFichajes\obj\Debug\ProyectoFichajes.frmPrincipal.resources
+C:\Users\Boromir\Documents\Trabajos\DAM\Programacion\EV3\ProyectoFichajes\obj\Debug\ProyectoFichajes.frmAccesoAdmin.resources
+C:\Users\Boromir\Documents\Trabajos\DAM\Programacion\EV3\ProyectoFichajes\obj\Debug\ProyectoFichajes.frmMantenimiento.resources
+C:\Users\Boromir\Documents\Trabajos\DAM\Programacion\EV3\ProyectoFichajes\obj\Debug\ProyectoFichajes.frmPresencia.resources
+C:\Users\Boromir\Documents\Trabajos\DAM\Programacion\EV3\ProyectoFichajes\obj\Debug\ProyectoFichajes.Properties.Resources.resources
+C:\Users\Boromir\Documents\Trabajos\DAM\Programacion\EV3\ProyectoFichajes\obj\Debug\ProyectoFichajes.csproj.GenerateResource.cache
+C:\Users\Boromir\Documents\Trabajos\DAM\Programacion\EV3\ProyectoFichajes\obj\Debug\ProyectoFichajes.csproj.CoreCompileInputs.cache
+C:\Users\Boromir\Documents\Trabajos\DAM\Programacion\EV3\ProyectoFichajes\obj\Debug\ProyectoFichajes.csproj.CopyComplete
+C:\Users\Boromir\Documents\Trabajos\DAM\Programacion\EV3\ProyectoFichajes\obj\Debug\ProyectoFichajes.exe
+C:\Users\Boromir\Documents\Trabajos\DAM\Programacion\EV3\ProyectoFichajes\obj\Debug\ProyectoFichajes.pdb
+C:\Users\rlinf\Downloads\ProyectoFichajes\ProyectoFichajes\bin\Debug\ProyectoFichajes.exe.config
+C:\Users\rlinf\Downloads\ProyectoFichajes\ProyectoFichajes\bin\Debug\ProyectoFichajes.exe
+C:\Users\rlinf\Downloads\ProyectoFichajes\ProyectoFichajes\bin\Debug\ProyectoFichajes.pdb
+C:\Users\rlinf\Downloads\ProyectoFichajes\ProyectoFichajes\bin\Debug\MySql.Data.dll
+C:\Users\rlinf\Downloads\ProyectoFichajes\ProyectoFichajes\bin\Debug\System.Memory.dll
+C:\Users\rlinf\Downloads\ProyectoFichajes\ProyectoFichajes\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\rlinf\Downloads\ProyectoFichajes\ProyectoFichajes\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\rlinf\Downloads\ProyectoFichajes\ProyectoFichajes\bin\Debug\System.Buffers.dll
+C:\Users\rlinf\Downloads\ProyectoFichajes\ProyectoFichajes\bin\Debug\MySql.Data.xml
+C:\Users\rlinf\Downloads\ProyectoFichajes\ProyectoFichajes\obj\Debug\ProyectoFichajes.csproj.AssemblyReference.cache
+C:\Users\rlinf\Downloads\ProyectoFichajes\ProyectoFichajes\obj\Debug\ProyectoFichajes.frmPrincipal.resources
+C:\Users\rlinf\Downloads\ProyectoFichajes\ProyectoFichajes\obj\Debug\ProyectoFichajes.frmAccesoAdmin.resources
+C:\Users\rlinf\Downloads\ProyectoFichajes\ProyectoFichajes\obj\Debug\ProyectoFichajes.frmMantenimiento.resources
+C:\Users\rlinf\Downloads\ProyectoFichajes\ProyectoFichajes\obj\Debug\ProyectoFichajes.frmPresencia.resources
+C:\Users\rlinf\Downloads\ProyectoFichajes\ProyectoFichajes\obj\Debug\ProyectoFichajes.Properties.Resources.resources
+C:\Users\rlinf\Downloads\ProyectoFichajes\ProyectoFichajes\obj\Debug\ProyectoFichajes.csproj.GenerateResource.cache
+C:\Users\rlinf\Downloads\ProyectoFichajes\ProyectoFichajes\obj\Debug\ProyectoFichajes.csproj.CoreCompileInputs.cache
+C:\Users\rlinf\Downloads\ProyectoFichajes\ProyectoFichajes\obj\Debug\ProyectoFichajes.csproj.CopyComplete
+C:\Users\rlinf\Downloads\ProyectoFichajes\ProyectoFichajes\obj\Debug\ProyectoFichajes.exe
+C:\Users\rlinf\Downloads\ProyectoFichajes\ProyectoFichajes\obj\Debug\ProyectoFichajes.pdb
+C:\Users\rlinf\Downloads\ProyectoFichajes\ProyectoFichajes\ProyectoFichajes\bin\Debug\ProyectoFichajes.exe.config
+C:\Users\rlinf\Downloads\ProyectoFichajes\ProyectoFichajes\ProyectoFichajes\bin\Debug\ProyectoFichajes.exe
+C:\Users\rlinf\Downloads\ProyectoFichajes\ProyectoFichajes\ProyectoFichajes\bin\Debug\ProyectoFichajes.pdb
+C:\Users\rlinf\Downloads\ProyectoFichajes\ProyectoFichajes\ProyectoFichajes\bin\Debug\MySql.Data.dll
+C:\Users\rlinf\Downloads\ProyectoFichajes\ProyectoFichajes\ProyectoFichajes\bin\Debug\System.Memory.dll
+C:\Users\rlinf\Downloads\ProyectoFichajes\ProyectoFichajes\ProyectoFichajes\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\rlinf\Downloads\ProyectoFichajes\ProyectoFichajes\ProyectoFichajes\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\rlinf\Downloads\ProyectoFichajes\ProyectoFichajes\ProyectoFichajes\bin\Debug\System.Buffers.dll
+C:\Users\rlinf\Downloads\ProyectoFichajes\ProyectoFichajes\ProyectoFichajes\bin\Debug\MySql.Data.xml
+C:\Users\rlinf\Downloads\ProyectoFichajes\ProyectoFichajes\ProyectoFichajes\obj\Debug\ProyectoFichajes.csproj.AssemblyReference.cache
+C:\Users\rlinf\Downloads\ProyectoFichajes\ProyectoFichajes\ProyectoFichajes\obj\Debug\ProyectoFichajes.frmPrincipal.resources
+C:\Users\rlinf\Downloads\ProyectoFichajes\ProyectoFichajes\ProyectoFichajes\obj\Debug\ProyectoFichajes.frmAccesoAdmin.resources
+C:\Users\rlinf\Downloads\ProyectoFichajes\ProyectoFichajes\ProyectoFichajes\obj\Debug\ProyectoFichajes.frmMantenimiento.resources
+C:\Users\rlinf\Downloads\ProyectoFichajes\ProyectoFichajes\ProyectoFichajes\obj\Debug\ProyectoFichajes.frmPresencia.resources
+C:\Users\rlinf\Downloads\ProyectoFichajes\ProyectoFichajes\ProyectoFichajes\obj\Debug\ProyectoFichajes.Properties.Resources.resources
+C:\Users\rlinf\Downloads\ProyectoFichajes\ProyectoFichajes\ProyectoFichajes\obj\Debug\ProyectoFichajes.csproj.GenerateResource.cache
+C:\Users\rlinf\Downloads\ProyectoFichajes\ProyectoFichajes\ProyectoFichajes\obj\Debug\ProyectoFichajes.csproj.CoreCompileInputs.cache
+C:\Users\rlinf\Downloads\ProyectoFichajes\ProyectoFichajes\ProyectoFichajes\obj\Debug\ProyectoFichajes.csproj.CopyComplete
+C:\Users\rlinf\Downloads\ProyectoFichajes\ProyectoFichajes\ProyectoFichajes\obj\Debug\ProyectoFichajes.exe
+C:\Users\rlinf\Downloads\ProyectoFichajes\ProyectoFichajes\ProyectoFichajes\obj\Debug\ProyectoFichajes.pdb
+C:\Users\Boromir\Documents\Trabajos\DAM\Programacion\EV3\ProyectoFichajes\ProyectoFichajes\bin\Debug\ProyectoFichajes.exe.config
+C:\Users\Boromir\Documents\Trabajos\DAM\Programacion\EV3\ProyectoFichajes\ProyectoFichajes\bin\Debug\ProyectoFichajes.exe
+C:\Users\Boromir\Documents\Trabajos\DAM\Programacion\EV3\ProyectoFichajes\ProyectoFichajes\bin\Debug\ProyectoFichajes.pdb
+C:\Users\Boromir\Documents\Trabajos\DAM\Programacion\EV3\ProyectoFichajes\ProyectoFichajes\bin\Debug\MySql.Data.dll
+C:\Users\Boromir\Documents\Trabajos\DAM\Programacion\EV3\ProyectoFichajes\ProyectoFichajes\bin\Debug\System.Memory.dll
+C:\Users\Boromir\Documents\Trabajos\DAM\Programacion\EV3\ProyectoFichajes\ProyectoFichajes\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Boromir\Documents\Trabajos\DAM\Programacion\EV3\ProyectoFichajes\ProyectoFichajes\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Boromir\Documents\Trabajos\DAM\Programacion\EV3\ProyectoFichajes\ProyectoFichajes\bin\Debug\System.Buffers.dll
+C:\Users\Boromir\Documents\Trabajos\DAM\Programacion\EV3\ProyectoFichajes\ProyectoFichajes\bin\Debug\MySql.Data.xml
+C:\Users\Boromir\Documents\Trabajos\DAM\Programacion\EV3\ProyectoFichajes\ProyectoFichajes\obj\Debug\ProyectoFichajes.csproj.AssemblyReference.cache
+C:\Users\Boromir\Documents\Trabajos\DAM\Programacion\EV3\ProyectoFichajes\ProyectoFichajes\obj\Debug\ProyectoFichajes.frmPrincipal.resources
+C:\Users\Boromir\Documents\Trabajos\DAM\Programacion\EV3\ProyectoFichajes\ProyectoFichajes\obj\Debug\ProyectoFichajes.frmAccesoAdmin.resources
+C:\Users\Boromir\Documents\Trabajos\DAM\Programacion\EV3\ProyectoFichajes\ProyectoFichajes\obj\Debug\ProyectoFichajes.frmMantenimiento.resources
+C:\Users\Boromir\Documents\Trabajos\DAM\Programacion\EV3\ProyectoFichajes\ProyectoFichajes\obj\Debug\ProyectoFichajes.frmPresencia.resources
+C:\Users\Boromir\Documents\Trabajos\DAM\Programacion\EV3\ProyectoFichajes\ProyectoFichajes\obj\Debug\ProyectoFichajes.Properties.Resources.resources
+C:\Users\Boromir\Documents\Trabajos\DAM\Programacion\EV3\ProyectoFichajes\ProyectoFichajes\obj\Debug\ProyectoFichajes.csproj.GenerateResource.cache
+C:\Users\Boromir\Documents\Trabajos\DAM\Programacion\EV3\ProyectoFichajes\ProyectoFichajes\obj\Debug\ProyectoFichajes.csproj.CoreCompileInputs.cache
+C:\Users\Boromir\Documents\Trabajos\DAM\Programacion\EV3\ProyectoFichajes\ProyectoFichajes\obj\Debug\ProyectoFichajes.csproj.CopyComplete
+C:\Users\Boromir\Documents\Trabajos\DAM\Programacion\EV3\ProyectoFichajes\ProyectoFichajes\obj\Debug\ProyectoFichajes.exe
+C:\Users\Boromir\Documents\Trabajos\DAM\Programacion\EV3\ProyectoFichajes\ProyectoFichajes\obj\Debug\ProyectoFichajes.pdb
+C:\Users\Boromir\Documents\Trabajos\DAM\Programacion\EV3\ProyectoFichajes\ProyectoFichajes\obj\Debug\ProyectoFichajes.frmPermanencia.resources
+C:\Users\rlinf\Downloads\ProyectoFichajes\ProyectoFichajes\obj\Debug\ProyectoFichajes.frmPermanencia.resources
+C:\Users\Boromir\Desktop\ProyectoFichajes\ProyectoFichajes\bin\Debug\ProyectoFichajes.exe.config
+C:\Users\Boromir\Desktop\ProyectoFichajes\ProyectoFichajes\bin\Debug\ProyectoFichajes.exe
+C:\Users\Boromir\Desktop\ProyectoFichajes\ProyectoFichajes\bin\Debug\ProyectoFichajes.pdb
+C:\Users\Boromir\Desktop\ProyectoFichajes\ProyectoFichajes\bin\Debug\MySql.Data.dll
+C:\Users\Boromir\Desktop\ProyectoFichajes\ProyectoFichajes\bin\Debug\System.Memory.dll
+C:\Users\Boromir\Desktop\ProyectoFichajes\ProyectoFichajes\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Boromir\Desktop\ProyectoFichajes\ProyectoFichajes\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Boromir\Desktop\ProyectoFichajes\ProyectoFichajes\bin\Debug\System.Buffers.dll
+C:\Users\Boromir\Desktop\ProyectoFichajes\ProyectoFichajes\bin\Debug\MySql.Data.xml
+C:\Users\Boromir\Desktop\ProyectoFichajes\ProyectoFichajes\obj\Debug\ProyectoFichajes.csproj.AssemblyReference.cache
+C:\Users\Boromir\Desktop\ProyectoFichajes\ProyectoFichajes\obj\Debug\ProyectoFichajes.frmPrincipal.resources
+C:\Users\Boromir\Desktop\ProyectoFichajes\ProyectoFichajes\obj\Debug\ProyectoFichajes.frmAccesoAdmin.resources
+C:\Users\Boromir\Desktop\ProyectoFichajes\ProyectoFichajes\obj\Debug\ProyectoFichajes.frmMantenimiento.resources
+C:\Users\Boromir\Desktop\ProyectoFichajes\ProyectoFichajes\obj\Debug\ProyectoFichajes.frmPresencia.resources
+C:\Users\Boromir\Desktop\ProyectoFichajes\ProyectoFichajes\obj\Debug\ProyectoFichajes.frmPermanencia.resources
+C:\Users\Boromir\Desktop\ProyectoFichajes\ProyectoFichajes\obj\Debug\ProyectoFichajes.Properties.Resources.resources
+C:\Users\Boromir\Desktop\ProyectoFichajes\ProyectoFichajes\obj\Debug\ProyectoFichajes.csproj.GenerateResource.cache
+C:\Users\Boromir\Desktop\ProyectoFichajes\ProyectoFichajes\obj\Debug\ProyectoFichajes.csproj.CoreCompileInputs.cache
+C:\Users\Boromir\Desktop\ProyectoFichajes\ProyectoFichajes\obj\Debug\ProyectoFichajes.csproj.CopyComplete
+C:\Users\Boromir\Desktop\ProyectoFichajes\ProyectoFichajes\obj\Debug\ProyectoFichajes.exe
+C:\Users\Boromir\Desktop\ProyectoFichajes\ProyectoFichajes\obj\Debug\ProyectoFichajes.pdb
+C:\Users\bostbo\Documents\Programación\EV3\ProyectoFichajes\bin\Debug\ProyectoFichajes.exe.config
+C:\Users\bostbo\Documents\Programación\EV3\ProyectoFichajes\bin\Debug\ProyectoFichajes.exe
+C:\Users\bostbo\Documents\Programación\EV3\ProyectoFichajes\bin\Debug\ProyectoFichajes.pdb
+C:\Users\bostbo\Documents\Programación\EV3\ProyectoFichajes\bin\Debug\MySql.Data.dll
+C:\Users\bostbo\Documents\Programación\EV3\ProyectoFichajes\bin\Debug\System.Memory.dll
+C:\Users\bostbo\Documents\Programación\EV3\ProyectoFichajes\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\bostbo\Documents\Programación\EV3\ProyectoFichajes\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\bostbo\Documents\Programación\EV3\ProyectoFichajes\bin\Debug\System.Buffers.dll
+C:\Users\bostbo\Documents\Programación\EV3\ProyectoFichajes\bin\Debug\MySql.Data.xml
+C:\Users\bostbo\Documents\Programación\EV3\ProyectoFichajes\obj\Debug\ProyectoFichajes.csproj.AssemblyReference.cache
+C:\Users\bostbo\Documents\Programación\EV3\ProyectoFichajes\obj\Debug\ProyectoFichajes.frmPrincipal.resources
+C:\Users\bostbo\Documents\Programación\EV3\ProyectoFichajes\obj\Debug\ProyectoFichajes.frmAccesoAdmin.resources
+C:\Users\bostbo\Documents\Programación\EV3\ProyectoFichajes\obj\Debug\ProyectoFichajes.frmMantenimiento.resources
+C:\Users\bostbo\Documents\Programación\EV3\ProyectoFichajes\obj\Debug\ProyectoFichajes.frmPresencia.resources
+C:\Users\bostbo\Documents\Programación\EV3\ProyectoFichajes\obj\Debug\ProyectoFichajes.frmPermanencia.resources
+C:\Users\bostbo\Documents\Programación\EV3\ProyectoFichajes\obj\Debug\ProyectoFichajes.Properties.Resources.resources
+C:\Users\bostbo\Documents\Programación\EV3\ProyectoFichajes\obj\Debug\ProyectoFichajes.csproj.GenerateResource.cache
+C:\Users\bostbo\Documents\Programación\EV3\ProyectoFichajes\obj\Debug\ProyectoFichajes.csproj.CoreCompileInputs.cache
+C:\Users\bostbo\Documents\Programación\EV3\ProyectoFichajes\obj\Debug\Proyecto.5C04C1B9.Up2Date
+C:\Users\bostbo\Documents\Programación\EV3\ProyectoFichajes\obj\Debug\ProyectoFichajes.exe
+C:\Users\bostbo\Documents\Programación\EV3\ProyectoFichajes\obj\Debug\ProyectoFichajes.pdb
+C:\Users\rlinf\Downloads\ProyectoFichajes\obj\Debug\ProyectoFichajes.frmPrincipal.resources
+C:\Users\rlinf\Downloads\ProyectoFichajes\obj\Debug\ProyectoFichajes.frmPresencia.resources
+C:\Users\rlinf\Downloads\ProyectoFichajes\obj\Debug\ProyectoFichajes.frmPermanencia.resources
