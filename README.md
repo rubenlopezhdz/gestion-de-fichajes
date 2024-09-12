@@ -21,6 +21,11 @@ Este proyecto tiene como objetivo gestionar el control de fichajes de empleados 
 2. Navega al directorio del proyecto:
 
    - cd gestion-de-fichajes
+  
+3. Descarga los archivos
+
+   - Crea la base de datos con el script propuesto en el repositorio.
+   - Accede a la aplicación desde Visual Studio Enterprise.
 
 3. Disfruta de la aplicación
 
